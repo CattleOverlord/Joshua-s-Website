@@ -1,0 +1,70 @@
+body{
+ background-color: burlywood;
+  }
+
+head{
+  padding: 100px;
+  text-align: center;
+  background-color: dimgrey;
+
+}
+nav{
+  text-align: left;
+  font-size: 20px;
+  padding-bottom: px;
+}
+footer{
+  padding-top: 20px;
+  font-size: 10px;
+}
+div{
+  text-align: center;
+  font-family: cursive;
+}
+
+
+  
+
+article{
+  text-align: center;
+  font-family: cursive;
+}
+h1{
+  background-color: dimgrey;
+  font-style: italic;
+}
+.left{
+  text-align: left;
+}
+
+.container {
+  padding: 20px;
+  
+}
+
+
+input[type=text], input[type=submit] {
+  width: 100%;
+  padding: 12px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid dimgrey(61, 36, 36);
+  box-sizing: border-box;
+}
+
+
+input[type=checkbox] {
+  margin-top: 16px;
+}
+
+
+input[type=submit] {
+  background-color:gray;
+  font-size: 20px;
+  font-family: cursive;
+  border: none;
+}
+
+input[type=submit]:hover {
+  opacity: 0.8;
+}

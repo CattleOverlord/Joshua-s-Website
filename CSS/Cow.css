@@ -1,0 +1,82 @@
+
+
+article{
+  font-family:cursive;
+  color: rgb(70, 70, 70);
+  text-align: center;
+
+}
+ 
+
+
+
+  h1{
+    font-style: italic;
+ 
+  }
+  h2{
+    font-size: 35px;
+  }
+  p{ line-height: 1.5;
+  
+  }
+ 
+  
+  #copyright{
+    font-size: 10px;
+  }
+ 
+.main-header{
+    text-align: center;
+    color: rgb(39, 67, 145);
+    background-color: rgb(118, 119, 107);
+    
+  }
+  aside{
+
+   background-color: rgb(196, 196, 196);
+   border-top: 5px solid rgb(40, 47, 49);
+   border-bottom: 5px solid rgb(40, 47, 49);
+   text-align: center ;
+  }
+  .post{
+    text-align: center;
+    font-size: 20px;
+    list-style: none;
+  }
+  
+  body{
+    background-color: rgb(187, 168, 128);
+  
+ }
+ div{
+  text-align: center;}
+ 
+  #author{
+  text-align: left;
+  
+  }
+  .posted{
+    text-align: center;
+  
+    padding-bottom: 120px;
+  }
+  
+  .post{
+    font-size: 30px;
+  }
+  .taur{
+    text-align: center;
+  }
+
+  .parallax{
+    background: url("../IMG/denmark-physical-map.jpg") no-repeat center; 
+    background-size:1000px;
+    background-attachment:fixed;
+    height: 300px;
+    border-top:grey solid 15px;
+
+  }
+  h5{
+    font-size: 20px;
+  }
